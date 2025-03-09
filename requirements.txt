@@ -1,0 +1,5 @@
+youtube-transcript-api
+openai
+beautifulsoup4
+requests
+python-dotenv
